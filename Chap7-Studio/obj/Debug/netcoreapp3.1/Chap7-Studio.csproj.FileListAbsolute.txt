@@ -1,0 +1,14 @@
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.csproj.AssemblyReference.cache
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.AssemblyInfoInputs.cache
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.AssemblyInfo.cs
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.csproj.CoreCompileInputs.cache
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\bin\Debug\netcoreapp3.1\Chap7-Studio.exe
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\bin\Debug\netcoreapp3.1\Chap7-Studio.deps.json
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\bin\Debug\netcoreapp3.1\Chap7-Studio.runtimeconfig.json
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\bin\Debug\netcoreapp3.1\Chap7-Studio.runtimeconfig.dev.json
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\bin\Debug\netcoreapp3.1\Chap7-Studio.dll
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\bin\Debug\netcoreapp3.1\Chap7-Studio.pdb
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.dll
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.pdb
+C:\Users\priya\Philly_CodeCamp2022\unit-2\Studio\Chap7-Studio\Chap7-Studio\Chap7-Studio\obj\Debug\netcoreapp3.1\Chap7-Studio.genruntimeconfig.cache
